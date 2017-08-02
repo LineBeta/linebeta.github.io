@@ -132,6 +132,10 @@ text-align: center;
 	color: #444;
 }
 
+.copyright {
+    color: #cfd7df;
+	font-size: 12px;
+}
 
 @media only screen and (max-width: 1024px){
 .header{
@@ -180,6 +184,7 @@ text-align: center;
 	padding: 30px 0;
 	float: left;
 }
+
 
 
 
