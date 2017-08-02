@@ -1,2 +1,0 @@
-# linebeta.github.io
-Website
